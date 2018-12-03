@@ -1,0 +1,11 @@
+﻿'OOP lab2.1.exe' (Win32): Loaded 'D:\навчальна практика\OOP lab1\Lab 2\OOP lab2.1\Debug\OOP lab2.1.exe'. Symbols loaded.
+'OOP lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'OOP lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'OOP lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'OOP lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'OOP lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'OOP lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x3b58 has exited with code 0 (0x0).
+The thread 0xe1c has exited with code 0 (0x0).
+The thread 0x36f8 has exited with code -1073741510 (0xc000013a).
+The program '[7876] OOP lab2.1.exe' has exited with code -1073741510 (0xc000013a).

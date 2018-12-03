@@ -1,0 +1,22 @@
+﻿'lab9.2.exe' (Win32): Loaded 'D:\навчальна практика\OOP lab1\lab9\lab9.2\lab9.2\Debug\lab9.2.exe'. Symbols loaded.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\vcruntime140d.dll'
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+Exception thrown at 0x73E41812 in lab9.2.exe: Microsoft C++ exception: int at memory location 0x006FF620.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'lab9.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0x1793c has exited with code 0 (0x0).
+The thread 0x175d4 has exited with code 0 (0x0).
+The thread 0x16efc has exited with code 0 (0x0).
+The program '[98600] lab9.2.exe' has exited with code 0 (0x0).
